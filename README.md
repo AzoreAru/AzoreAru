@@ -1,16 +1,13 @@
-## Hi there 👋
+# Halo semua! 
 
-<!--
-**AzoreAru/AzoreAru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Muhammad Naufaldi Fayyadh**.<br>
 
-Here are some ideas to get you started:
+Saya seorang **Mahasiswa** di **Universitas Lambung Mangkurat**.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Saya mengikuti program - program kampus merdeka yaitu wirausaha merdeka dan MSIB.<br>
+Pada program MSIB saya mengikuti mitra bangkit dengan pilihan cloud computing.<br>
+
+Saya juga memiliki sertifikat BNSP dari program wirausaha merdeka.<br>
+
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/muhammad-naufaldi-fayyadh-14b937251)ku ya.
